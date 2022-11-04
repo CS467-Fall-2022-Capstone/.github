@@ -4,7 +4,7 @@ CS467 Online Capstone Project
 Fall 2022
 
 ## Project Team Members
-- Sean Park ([@seanypark505](https://github.com/seanypark505))
+- Sean Park @CS467-Fall-2022-Capstone/seanypark505
 - Alice Fisher ([@fisher-alice](https://github.com/fisher-alice)) 
 - Joel Swenndal ([@joelswenddal](https://github.com/joelswenddal))
 
