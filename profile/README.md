@@ -3,7 +3,7 @@ Oregon State University
 CS467 Online Capstone Project
 Fall 2022
 
-Go to [WebApp deployed on Render](https://teacher-supply-donation-x10q.onrender.com/)
+Go to [WebApp deployed on Render](https://tsdonation.live)
 
 ## Project Team Members
 - Sean Park ([@seanypark505](https://github.com/seanypark505))
